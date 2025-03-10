@@ -4,9 +4,14 @@ To-Do List, günlük görevlerinizi planlamanıza, alt görevler eklemenize, kat
 
 
 ## 📸 Ekran Görüntüleri  
+![ScreenShot 1](https://github.com/user-attachments/assets/4a9599f7-f82d-4d03-b759-c69605bd603a)
+![ScreenShot2](https://github.com/user-attachments/assets/6dfd5188-fb74-477b-b915-1f6ee8b1709b)
+![ScreenShot3](https://github.com/user-attachments/assets/d369395d-e362-48c1-947d-3d04d478c5a7)
+![ScreenShot4](https://github.com/user-attachments/assets/3ddafb29-94c1-4fa1-b8a3-d79e4b298d0f)
+![ScreenShot5](https://github.com/user-attachments/assets/a64ee213-795c-4017-9a4f-f4fa12748890)
 
 
-![ScreenRecording_03-10-202515-38-09_1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/eead40f7-1834-4f55-897f-7f9dcc791d3c)
+
 
 ## 🎯 Özellikler
 
@@ -27,7 +32,12 @@ To-Do List, günlük görevlerinizi planlamanıza, alt görevler eklemenize, kat
 To-Do List is an iOS application designed to help you plan your daily tasks, add subtasks, categorize them, and track them based on a calendar view. Built using UIKit & Core Data, it offers a modern and intuitive user experience. 🚀
 
 ##📸 Screenshots
-![ScreenRecording_03-10-202515-38-09_1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/eead40f7-1834-4f55-897f-7f9dcc791d3c)
+![ScreenShot 1](https://github.com/user-attachments/assets/78945e5c-4111-44be-bf2c-a2a7a9822b9f)
+![ScreenShot2](https://github.com/user-attachments/assets/4a6db886-445b-40c7-86c0-de31252a2ead)
+![ScreenShot3](https://github.com/user-attachments/assets/289b7aa3-b085-4df6-883a-c0cb52a49005)
+![ScreenShot4](https://github.com/user-attachments/assets/0e33fad1-5b15-4821-bfa3-b86e434b33e1)
+![ScreenShot5](https://github.com/user-attachments/assets/e47d720c-3ee1-4c46-88a2-9f088dd863b5)
+
 
 ##🎯 Features
 

@@ -4,14 +4,11 @@ To-Do List, günlük görevlerinizi planlamanıza, alt görevler eklemenize, kat
 
 
 ## 📸 Ekran Görüntüleri  
-![ScreenShot 1](https://github.com/user-attachments/assets/4a9599f7-f82d-4d03-b759-c69605bd603a)
-![ScreenShot2](https://github.com/user-attachments/assets/6dfd5188-fb74-477b-b915-1f6ee8b1709b)
-![ScreenShot3](https://github.com/user-attachments/assets/d369395d-e362-48c1-947d-3d04d478c5a7)
-![ScreenShot4](https://github.com/user-attachments/assets/3ddafb29-94c1-4fa1-b8a3-d79e4b298d0f)
-![ScreenShot5](https://github.com/user-attachments/assets/a64ee213-795c-4017-9a4f-f4fa12748890)
-
-
-
+<img src="https://github.com/user-attachments/assets/4a9599f7-f82d-4d03-b759-c69605bd603a" width="600">
+<img src="https://github.com/user-attachments/assets/6dfd5188-fb74-477b-b915-1f6ee8b1709b" width="600">
+<img src="https://github.com/user-attachments/assets/d369395d-e362-48c1-947d-3d04d478c5a7" width="600">
+<img src="https://github.com/user-attachments/assets/3ddafb29-94c1-4fa1-b8a3-d79e4b298d0f" width="600">
+<img src="https://github.com/user-attachments/assets/a64ee213-795c-4017-9a4f-f4fa12748890" width="600">
 
 ## 🎯 Özellikler
 
